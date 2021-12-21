@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fastify": "^3.25.1"
+  },
+  "name": "fastify-test",
+  "description": "This project is an API to store gym routines. This is a test of the framework fastify.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloVahos/fastify-tests.git"
+  },
+  "keywords": [
+    "Fastify",
+    "framework"
+  ],
+  "author": "Camilo Vahos",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MiloVahos/fastify-tests/issues"
+  },
+  "homepage": "https://github.com/MiloVahos/fastify-tests#readme"
+}
